@@ -193,3 +193,7 @@ https://nextjs.org/docs/app/building-your-application/routing/defining-routes
 ## Personal recommendation
 
 [Next.js tutorial](https://nextjs.org/learn/dashboard-app)
+
+# FEEDBACK
+
+Please, share your feedback about the lesson [here](https://docs.google.com/forms/d/e/1FAIpQLSfmgR1Rb3Nm-mtydiipgDXnAYMgbt2NeDhV6FfVwdE7BSgLqQ/viewform?usp=sf_link).
