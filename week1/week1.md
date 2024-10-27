@@ -147,16 +147,16 @@ https://nextjs.org/docs/app/building-your-application/routing/defining-routes
 - Usage of [slug] parameter in the path
   - Create a personal page for every Cat there
   - Add Links to the personal pages to the list of Cats
-- Usage of searchParams prop (/search page)
-  - Create a field to filter Cats by name
-  - redirect every time the form is submitted (use `useSearchParams` hook)
-  - Use searchParams prop to get the name from the form
-- Usage of `children` prop: add a click counter
-  - Use server component to render a Cat on [slug] page
-  - Create Client component with button and a clicker
-  - Use `children` prop to pass a Cat to the Client component
-- Add the same setup for Dogs page
-  - Create a layout with header to switch between Cats and Dogs
+- ~~Usage of searchParams prop (/search page)~~
+  - ~~Create a field to filter Cats by name~~
+  - ~~redirect every time the form is submitted (use `useSearchParams` hook)~~
+  - ~~Use searchParams prop to get the name from the form~~
+- ~~Usage of `children` prop: add a click counter~~
+  - ~~Use server component to render a Cat on [slug] page~~
+  - ~~Create Client component with button and a clicker~~
+  - ~~Use `children` prop to pass a Cat to the Client component~~
+- ~~Add the same setup for Dogs page~~
+  - ~~Create a layout with header to switch between Cats and Dogs~~
 
 ### Old APIs
 
