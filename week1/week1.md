@@ -181,12 +181,17 @@ https://nextjs.org/docs/app/building-your-application/routing/defining-routes
 
 **Use cases?**
 
-1. 
+1. Caching (?)
+2. Save previous state/props/values
+3. Timers (return value to be able to cancel it)
+4. Flag
+5. DOM Manipulation
 
 ## Component Libraries
 
 - Every project = new base components
 - [Material UI](https://mui.com/material-ui/getting-started/)
+- `npm install @mui/material @emotion/react @emotion/styled --force`
 - Sometimes produces errors with Server components (Autocomplete)
   - Fixable by using a Wrapper component
 
