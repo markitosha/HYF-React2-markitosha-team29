@@ -14,11 +14,16 @@ Next.js specific staff, so let's start with questions about React.
 
 **What are minuses?**
 
-1. 
+1. Difficult to update
+2. Harder to make reusable
+3. A lot of duplicated code
+4. You have to be presice
+5. Harder to write code
 
 **When is it fine?**
 
-1. 
+1. One pagers (landings)
+2. Something not complicated
 
 ### CSR (Client Side Rendering)
 
@@ -45,11 +50,16 @@ which is not good for our demonstration._
 
 **What are minuses?**
 
-1. 
+1. Complexity raised
+2. SEO problems
+3. Performance issues
+   4. Load longer
+   5. Bigger bundle size
 
 **When is it fine?**
 
-1. 
+1. When you don't have server
+2. Admin panels / inner projects
 
 ### ~~SSG (Static Site Generation)~~ Static routes
 
