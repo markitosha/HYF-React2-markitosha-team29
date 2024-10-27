@@ -70,7 +70,7 @@ which is not good for our demonstration._
 
 ### ~~SSR (Server Side Rendering)~~ Dynamic routes
 
-![img_1.png](img_1.png)
+![img.png](img.png)
 
 - (also Next.js)
 - Pages are generated on the server at **request** time
