@@ -74,7 +74,23 @@ https://nextjs.org/docs/app/building-your-application/routing/layouts-and-templa
 
 ### Where to use Context?
 
-1.
+1. Theme
+2. Data that's needed everywhere (like User data)
+3. Localisation
+4. Currency for web shops
+
+Context = en
+
+{
+    en: {
+        hello: 'Hello',
+        bye: 'Goodbye'
+    },
+    da: {
+        hello: 'Hej',
+        bye: 'Farvel'
+    }
+}
 
 ## Reducer
 
