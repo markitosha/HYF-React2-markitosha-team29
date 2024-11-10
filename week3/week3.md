@@ -32,7 +32,7 @@ https://mui.com/material-ui/customization/how-to-customize/
 4. `GlobalStyles` component
 5. creating a `theme` with `createTheme`
 
-## Server Actions
+## [Next.js] Server Actions
 
 https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations
 
